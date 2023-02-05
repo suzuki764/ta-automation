@@ -10,6 +10,11 @@ cp compile-test.sh ~/compile-test.sh
 ~/compile-test.sh
 ```
 
+readmeの表示がいらないとき
+```sh
+~/compile-test.sh --skip-readme
+```
+
 ## 参考
 - ディレクトリをターミナルで開くときは、以下の設定をしておくと便利
 
